@@ -1,1 +1,1 @@
-# predicting_genuiness_of_image
+# predicting_genuineness_of_image
